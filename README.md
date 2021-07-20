@@ -21,6 +21,7 @@
 <p align="left"> 
 <a href="https://www.linkedin.com/in/ayushsaini1005/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ayushsaini1005" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/truedreamer18/practice/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" alt="truedreamer18/practice/" height="30" width="40" /></a>
+ <a href="https://leetcode.com/ayushsaini/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="ayushsaini" height="30" width="30"/></a>
 </p>
 
 <h3 align="left">⭐ Languages and Tools:</h3>
