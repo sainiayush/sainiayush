@@ -5,7 +5,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sainiayusha&label=Profile%20views&color=0e75b6&style=flat" alt="sainiayush" /> </p>
 <br>
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sainiayush&hide=contribs,prs" alt="sainiayush" /></p>
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=sainiayush" alt="sainiayush" /></p>
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainiayush&layout=compact&langs_count=20" alt="sainiayush" />
 </p>
 <br>
